@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connieoooiii&layout=compact&theme=github_dark)
 
-[![Connie's GitHub stats](https://github-readme-stats.vercel.app/api?username=connieoooiii)](https://github.com/connieoooiii/github-readme-stats)
 
 ###  Languages and Technologies  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
