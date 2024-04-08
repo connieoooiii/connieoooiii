@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 💻 I am a software engineer who's excited to share this space with everyone
 - 🩺 Previous background in healthcare 
 - 🧋 Boba and coffee enthusiast 
-- 🍙 Ask me about my favorite anime or manga! 
 - ☁️ I have the fluffiest land cloud/Samoyed ever
 - 💪🏼 Always looking for new challenges and opportunities to learn and grow.
 
