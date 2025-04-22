@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+My+name+is+Connie!;Welcome+to+my+page!)](https://git.io/typing-svg)
 ### About Me
-- 💻 I am a software engineer who's excited to share this space with everyone
-- 🩺 Previous background in healthcare 
-- 🧋 Boba and coffee enthusiast 
+- 💻 I am a techincal writer! 
+- 🩺 Previous background in healthcare and fullstack development 
+- 🫱🏻‍🫲🏽 I enjoy volunteering and staying active 
 - ☁️ I have the fluffiest land cloud/Samoyed ever
 - 💪🏼 Always looking for new challenges and opportunities to learn and grow.
 
